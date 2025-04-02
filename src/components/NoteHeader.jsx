@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/NoteHeader.css";
+import "src/styles/NoteHeader.Module.css";
 
 const NoteHeader = ({ name, color, isMobile, setDisplay }) => {
   return (
