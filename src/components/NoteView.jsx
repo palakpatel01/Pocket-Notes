@@ -1,5 +1,5 @@
 import React from "react";
-import "src/styles/NoteView.Module.css";
+import "../styles/NoteView.Module.css";
 
 import NoteHeader from "./NoteHeader";
 import Input from "./Input";
